@@ -1,0 +1,4 @@
+
+> ARRAY =
+
+Es una estructura ordenada de datos guardadas en una variable, como si fuese una lista, que puede recibir todo tipo de elementos (Numeros, strings, boolean, null, undefined) a los que se puede acceder en cualquier momento. Y se la define usando corchetes luego del nombre del arreglo y el signo =

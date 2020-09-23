@@ -1,0 +1,8 @@
+
+> .prototype.definicion =
+
+Un prototipo es el objeto en el cual está basado otro objeto, pudiendo obtener de él determinadas propiedades o metodos que si bien no están definidos en el propio objeto, pueden ser invocados y utilizados
+
+> function Constructors (definicion) {}
+
+Los constructores son funciones que permiten crear una clase, un objeto con ciertas propiedades que servirá de plantilla a otros objetos. Con el objetivo de evitar repetirse y escribir codigo demás que conlleven a errores

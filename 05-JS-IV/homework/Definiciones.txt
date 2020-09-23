@@ -1,0 +1,46 @@
+
+
+> var Objetos = {
+
+	definicion: 'Un objeto es una colección de propiedades',
+
+	}
+
+
+> var Propiedades = {
+
+	definicion: 'Cada propiedad es una asociación entre una clave (key) y un valor (value)',
+	
+	}
+
+
+> var Metodos = {
+
+	definicion: 'Se les llama metodos a aquellas funciones que están asociadas a la propiedad de un objeto. Por ej. .pop .push .length',
+
+	}
+
+
+
+> var BucleForIn = {
+
+	definicion: 'Es un bucle, diferente parcialmente al utilizado para recorrer arrays, que permite tambien iterar entre las claves y valores de un objeto. Definiendo una variable la palabra clave In y el nombre del objeto',
+
+	}
+
+> var NotacionPuntosNotacionCorchetes = {
+
+	definicion: 'Las notaciones permiten llamar a valores u objetos, que estén ya sea en un objeto o un array. A diferencia de los arreglos que tienen un indice numerico, los objetos al no poseerlo deben accederse a los valores a traves de las claves. La Bracket notation estará compuesto por un par de brackets y un par de comillas que encierren la clave, o bien una variable si se omiten las comillas. En el caso de la dot notation, que es mas simple en la escritura está compuesto por el objeto y la clave separados por un punto, con la desventaja de que no pueden citarse variables, solo claves'
+
+	}
+
+
+
+
+
+
+
+
+
+
+

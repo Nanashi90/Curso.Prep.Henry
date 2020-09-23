@@ -1,0 +1,7 @@
+
+> jsvihomework.callback(function(definicion) {
+	console.log(definicion);
+]);
+
+
+callbacks es la denominacion que se les da a las funciones que son pasadas por argumentos de otras funciones. Puede ser definida tanto dentro de la misma funcion o fuera de ella y luego invocando la expresion, obteniendo el mismo resultado

@@ -1,0 +1,26 @@
+
+- Variables =
+
+>> Es una cosa a la que se le puede asignar un valor que puede ser cualquier cosa, salvo excepciones, para despues poder utilizarlo cuando uno lo necesite en distintas operaciones
+<-
+
+- Strings =
+
+>> Es una sucesion de caracteres, ya sean letras o numeros, entre comillas
+<-
+
+- Funciones =
+
+>> Son aquellas que de alguna manera guardan codigo que uno va a utilizar repetidamente que evitará que se deba escribirlo varias veces. Estas pueden tener argumentos que son los variables que la completan como si fuese una funcion o ecuacion matematica con una incognita, es decir que de acuerdo a lo que uno le ingrese tendrá un determinado resultado
+Return es una funcion que te devuelve algo que no es undefined, algo definido
+<-
+
+- Declaraciones if =
+
+>> Son aquellas que presentan una relacion condicional, entregando un valor verdadero o falso, segun el valor que se ingese en base a la condicion impuesta
+<-
+
+- Valores booleanos true false =
+
+>> Son los dos valores posibles que devuelve el interprete ante una declaracion if de una determinada variable
+<-

@@ -1,0 +1,18 @@
+
+
+>> FOR  =
+
+Es una expreción que permite ejecutar de manera repetitiva un codigo. Basandose en la definicion de una variable, y a traves de una condicion  que mientras sea verdadera seguirá adoptando valores la variables hasta que esta sea falsa y deje de ejecutarse el codigo. Tambien debe definirse la logica de incremento de la variable.
+
+>> Operadores logicos =
+
+Los operadores logicos evaluan dos expresiones entre si, comparandolos entre si desde el punto de vista de la logica booleana (True/False)
+
+&&
+AND. Ejecutará verdadero solo cuando ambas expreciones sean verdaderas. Si una de las dos, o ambas son falsas, devolverá falso.
+
+||
+OR. Será verdadero el valor que retorne cuando al menos una de las dos expresiones es verdadera. Es decir que será falsa cuando ambas expresiones lo sean.
+
+!
+NOT. El resultado booleano que devuelva, será opuesto al que debería
