@@ -1,0 +1,36 @@
+
+img {
+    width: 400px;
+}
+.thirdDiv {
+    background-color: rgb(94, 94, 94);
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 5px dotted orange;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/japan-pattern-background-vector-design_41050-2353.jpg?size=626&ext=jpg);
+}
+
+div {
+    text-align: center;
+}
+
+* { 
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
